@@ -91,11 +91,3 @@ Simulating a worker failure:
 ./testResilience.sh https://db.in.tum.de/teaching/ws2324/clouddataprocessing/data/filelist.csv
 # should print 275625
 ```
-
-## Submission:
-You can submit everything via GitLab, until **Thursday, 30th of November, 14:00**.
-First fork this repository, and add all members of your group to a single repository.
-Then, in this group repository, add:
-* Code that implements the assignment
-* A written report named **report.pdf** (maximum 2 pages) giving a brief description of your implementation, and answering the design and scalability questions of Sections 1 & 2.
-* Names of all members of your group in **groupMembers.txt**
